@@ -6,6 +6,7 @@ int main(){
 	
 	if(l % 5 != 0){
 		num1++;
+		
 	}
 	
 	printf("%d", num1);
