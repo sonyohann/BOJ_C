@@ -15,6 +15,7 @@ int main(){
 	printf("%d\n", 1000 + c * 100);
 	
     else {
+    	
         if (a > b && a > c) 
 		printf("%d\n", a * 100);
         
